@@ -1,4 +1,4 @@
-#Akıllı Ulaşım Projesi - DATABOX
+# Akıllı Ulaşım Projesi - DATABOX
 Proje Hakkında
 Günümüz şartlarında trafikte yaşanan olayların takip edilmesi ve geri besleme ile kontrol altına alınması için akıllı ulaşım altyapıları inşa edilmeye başlanmıştır. Fakat bu altyapıların düzgün çalışabilmesi için son kullanıcı olan sürücünün interaktif bir şekilde takip edilmesi gerekir. Araçlarda opsiyonel olarak bulunan güvenlik sistemlerinin yetersiz kalmasından dolayı ve kullanıcıların artan maliyetler sonucunda bu sistemlere erişememesi trafikte önemli eksikliklere yol açmaktadır. Bu projedeki hedefimiz uçak sistemlerinde bulunan araçlar için çoklu ölçüm yapabilen kara kutu sistemi geliştirip kara ulaşımına entegre etmektir.
 
