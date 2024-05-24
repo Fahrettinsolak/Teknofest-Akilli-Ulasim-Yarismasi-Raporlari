@@ -26,17 +26,18 @@ Anormal sürüş tespiti ve çıkarım yapılması noktasında %60 hedefimiz var
 
 ### DATABOX Cihazı
 
-![DATABOX Cihazı](link_to_image1)![3](https://github.com/Fahrettinsolak/Teknofest-Akilli-Ulasim-Yarismasi-Raporlari/assets/79358514/73df2403-ce4f-488b-b80e-f9887db115bf)
-Prototipe Ait Görsel-1
-![4](https://github.com/Fahrettinsolak/Teknofest-Akilli-Ulasim-Yarismasi-Raporlari/assets/79358514/63d9777b-3bfd-4ea6-b878-d66da075554f)
-Prototipe Ait Görsel-2
+![DATABOX Cihazı]
+![3](https://github.com/Fahrettinsolak/Teknofest-Akilli-Ulasim-Yarismasi-Raporlari/assets/79358514/73df2403-ce4f-488b-b80e-f9887db115bf)<br>Prototipe Ait Görsel-1
+![4](https://github.com/Fahrettinsolak/Teknofest-Akilli-Ulasim-Yarismasi-Raporlari/assets/79358514/63d9777b-3bfd-4ea6-b878-d66da075554f)<br>Prototipe Ait Görsel-2<br>
+
 Araç üzerinde konumlandırılmış DATABOX cihazının görünümü.
 
 ### Veri Aktarımı
 
-![Veri Aktarımı](link_to_image2)![Ekran görüntüsü 2024-05-24 034251](https://github.com/Fahrettinsolak/Teknofest-Akilli-Ulasim-Yarismasi-Raporlari/assets/79358514/a9208eba-6f5b-486a-a405-844e076e51a4)
-Uygulama Giriş Ekranı
+![Veri Aktarımı]
+![Ekran görüntüsü 2024-05-24 034251](https://github.com/Fahrettinsolak/Teknofest-Akilli-Ulasim-Yarismasi-Raporlari/assets/79358514/a9208eba-6f5b-486a-a405-844e076e51a4)<br>Uygulama Giriş Ekranı
 
-![2](https://github.com/Fahrettinsolak/Teknofest-Akilli-Ulasim-Yarismasi-Raporlari/assets/79358514/ae4f1589-27ec-46e7-abb5-9b89e6782ec8)
 
-Mobil uygulamadan sunucuya veri aktarımı sürecinin görseli.
+![2](https://github.com/Fahrettinsolak/Teknofest-Akilli-Ulasim-Yarismasi-Raporlari/assets/79358514/ae4f1589-27ec-46e7-abb5-9b89e6782ec8)<br>Mobil uygulamadan sunucuya veri aktarımı sürecinin görseli.
+
+
